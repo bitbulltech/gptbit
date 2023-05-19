@@ -5,7 +5,7 @@
 GPTbit is an experimental open source application to create chatbot which returns response from custom data.
 It use Open AI chatGPT APIs to acheive the functionality.
 
-You can upload multiple doc files (.docx format) to create data library.
+You can upload multiple doc file (.docx format) or .txt file to create data library.
 It support content like text, images and Mathematical equations.
 
 
@@ -18,6 +18,7 @@ Example: If you are running any educational institute and your website contain i
 <b>Requirements</b>:
 1) PHP 7+
 2) Python 2+
+
 No database required for default functionalities but you can store data with the help of db.php file.
 
 
