@@ -1,2 +1,2 @@
 # gptbit
-Get response from custom data with the help of chatGPT
+Create a Chatbot with Custom Data by using ChatGPT
