@@ -1,0 +1,110 @@
+.gptbit-footer{
+    width: 350px;
+    position: fixed;
+    bottom: 2px;
+	right:2px;
+    background: #212121;
+    color: #ffffff;
+    padding: 9px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+.gptbit-container{
+	width:350px;
+	display:none;
+	position: fixed;
+    bottom: 2px;
+	right:2px;
+    color: #ffffff;
+    padding: 0px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: sans-serif;
+	height:500px;
+
+	background:#242222;
+	background-image: radial-gradient(circle,rgba(58,58,58,.75) 2px,transparent 0);
+    background-size: 30px 30px;
+    background-position: 0 0,15px 15px;	
+	
+}
+
+.gptbit-content{
+	height:450px;
+	
+}
+
+.gptbit-response{
+	height:390px;
+	overflow-y:auto;
+	width:330px;
+	margin:auto;
+}
+
+.gptbit-form{
+	height:50px;
+}
+
+.gptbit-footer-inner{
+	font-size:13px;
+	color:#ffffff;
+	border-top:1px solid #666666;
+	padding:6px;
+	background:#212121;
+	
+}
+
+.gptbit-footer-inner a{
+	font-size:13px;
+	color:#ffffff;
+	text-decoration:underline;
+	
+	
+	
+}
+
+.gptbit-btn{
+	border-radius:5px;
+	border: 1px solid #666666;
+	background:#242222;
+	color:#ffffff;
+	font-size:18px;
+	padding:10px;
+	cursor:pointer;
+	
+}
+.gptbit-text{
+		border-radius:5px;
+	border: 1px solid #666666;
+	background:#242222;
+	color:#ffffff;
+	font-size:18px;
+	padding:10px;
+}
+.gptbit-form{
+	padding:2px;
+}
+.gptbit-header{
+	padding: 5px;
+	background:#212121;
+	border-bottom:1px solid #666666;
+}
+.gptbit-msg{
+	padding: 4px;
+	background:#212121;
+	border:1px solid #666666;
+	color:#ffffff;
+	margin-top:5px;
+	border-radius:4px;
+	font-size:13px;
+}
+
+.margin-top{
+	margin-top:15px;
+}
+
+.text-right{
+	text-align:right;
+}
