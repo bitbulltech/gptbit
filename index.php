@@ -136,7 +136,7 @@ $json_topic=json_decode($ed, true);
 <div class="gptbit-response"></div>
 <div class="gptbit-form"><input type="text" class="gptbit-text" id="gptbit-text"> <button type="button" class="gptbit-btn send-btn" >Send</button></div>
 </div>
-<div class="gptbit-footer-inner">Powered by <a href="">GPTbit</a></div>
+<div class="gptbit-footer-inner">Powered by <a href="https://github.com/bitbulltech/gptbit">GPTbit</a></div>
 </div>
 <div class="gptbit-footer">Ask me</div>
 </textarea>
