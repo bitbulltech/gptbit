@@ -16,9 +16,18 @@ Example: If you are running any educational institute and your website contain i
 3) Create chatbot to generate a quick report from custom data
 
 <b>Requirements</b>:
-1) PHP 7+
-2) Python 2+
+1) PHP 7+ (php ZipArchive required)
+2) Python 2+ (OpenAI required)
 
-No database required for default functionalities but you can store data with the help of db.php file.
+No database required for default functionalities.
+
+
+<b>Installation</b>
+1) Upload all files to server
+2) Open config.php file and add openai api key and absolute path of server
+3) Make sure following directories has writeable permission
+   upload, upload/word_images, zip, rfor, data
+
+
 
 
